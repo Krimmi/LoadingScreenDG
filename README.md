@@ -1,2 +1,0 @@
-# LoadingScreenDG
-Created with CodeSandbox
